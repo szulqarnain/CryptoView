@@ -1,5 +1,5 @@
 Here are some challenge ideas that avoid complexity, can be solved using web3.js or APIs, and focus on backend code using Express.js and MongoDB.
-Choose 3 tasks that you are confident in and can do.
+Choose 2 tasks that you are confident in and can do.
 
 **1. NFT Metadata Retrieval and Storage:**
 
