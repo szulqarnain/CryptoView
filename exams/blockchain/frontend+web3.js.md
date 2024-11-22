@@ -2,7 +2,7 @@
 
 ## Task: Ethereum Price Alert with Web3.js Integration
 
-You need to create a React app that allows users to connect their Ethereum wallet and fetch the live price of Ethereum (ETH) from an external API (e.g., CoinGecko). 
+In this project, we need to create a new page that allows users to connect their Ethereum wallet and get real-time prices of Ethereum (ETH) from an external API (e.g. CoinGecko).
 The user should be able to set a price threshold (e.g., $2,000) for ETH. When the price of ETH crosses the threshold (from below to above), the app should display an alert.
 
 ### Requirements:
