@@ -35,7 +35,7 @@ The user should be able to set a price threshold (e.g., $2,000) for ETH. When th
 
 ### Deliverables:
 
-- A working React app with the following features:
+- A working page with the following features:
   - Web3.js integration to fetch and display the user's wallet address and ETH balance.
   - ETH price fetched from an external API and displayed on the UI.
   - A threshold input field and a price alert system when the price crosses the threshold.
